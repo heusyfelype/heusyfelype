@@ -17,7 +17,7 @@
   <img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png?&auto=webp&quality=85,75&width=500" width="120" height="45"/>
   
    <a href="https://aws.amazon.com/"/>
-  <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45" height="45"/>
   
    <a href="https://www.docker.com/"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/docker-2752207-2285024.png" width="45" height="45"/>
