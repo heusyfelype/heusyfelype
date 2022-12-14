@@ -73,8 +73,8 @@
 <div style="display: flex" align="center">
   <h2 align="center">Check my GitHub stats!</h2>
   <a href="https://github.com/heusyfelype/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heusyfelype&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heusyfelype&hide=TeX&exclude_repo=estudos_git&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heusyfelype&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heusyfelype&layout=compact&langs_count=8&theme=noctis_minimus"/>
 </div>
 
 
