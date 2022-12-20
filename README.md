@@ -3,9 +3,9 @@
 <h3 align="center"> It's a pleasure having you here! </h3>
 
 ### Here are some things about me:
-- 📝 I'm currently learning Docker with AWS
-- 👨‍💻 I'm currently studying at Driven Education to become a  Full Stack Web Developer
-- 🎓 I have a physics degree
+- 📝 I'm currently learning NestJS
+- 👨‍💻 I'm a Full Stack Web Developer open to work
+- 🎓 I have a physics degree, but my heart belongs to programming
 - 👥 Teamwork is cooler
 - ✅ I love to be always learning
 
