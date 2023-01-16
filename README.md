@@ -3,7 +3,7 @@
 <h3 align="center"> It's a pleasure having you here! </h3>
 
 ### Here are some things about me:
-- 📝 I'm currently learning NestJS
+- 📝 I'm currently learning NestJS, also JAVA with SpringBoot
 - 👨‍💻 I'm a Full Stack Web Developer open to work
 - 🎓 I have a physics degree, but my heart belongs to programming
 - 👥 Teamwork is cooler
@@ -70,17 +70,17 @@
 &nbsp;
 &nbsp;
 
-<div style="display: flex" align="center">
+<!-- <div style="display: flex" align="center">
   <h2 align="center">Check my GitHub stats!</h2>
-  <a href="https://github.com/heusyfelype/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heusyfelype&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/heusyfelype">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heusyfelype&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heusyfelype&layout=compact&langs_count=8&theme=noctis_minimus"/>
-</div>
+</div> -->
 
 
 <div align="center">
 
-<h2 align="center">Also wakatime stats! ⏳ </h2>
+<h2 align="center">Check my wakatime stats! ⏳ </h2>
 
 [![wakatime](https://wakatime.com/badge/user/44316572-a88f-40f7-9a43-9aa33edf0332.svg)](https://wakatime.com/@44316572-a88f-40f7-9a43-9aa33edf0332)
 
