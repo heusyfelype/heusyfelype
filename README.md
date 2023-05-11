@@ -82,8 +82,8 @@
 
 <h2 align="center">Check my wakatime stats! ⏳ </h2>
 
-[![wakatime](https://wakatime.com/badge/user/44316572-a88f-40f7-9a43-9aa33edf0332.svg)](https://wakatime.com/@44316572-a88f-40f7-9a43-9aa33edf0332)
-
-<a href="https://wakatime.com/@felype" title="Data update every midnight">
+<!-- [![wakatime](https://wakatime.com/badge/user/44316572-a88f-40f7-9a43-9aa33edf0332.svg)](https://wakatime.com/@44316572-a88f-40f7-9a43-9aa33edf0332)
+ -->
+<!-- <a href="https://wakatime.com/@felype" title="Data update every midnight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=felype&layout=compact&langs_count=6&theme=radical" alt="Wakatime coding actitvity languages"/></a>
-</div>
+</div> -->
