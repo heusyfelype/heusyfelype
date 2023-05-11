@@ -80,8 +80,8 @@
 
 <div align="center">
 
-<h2 align="center">Check my wakatime stats! ⏳ </h2>
-
+<!-- <h2 align="center">Check my wakatime stats! ⏳ </h2>
+ -->
 <!-- [![wakatime](https://wakatime.com/badge/user/44316572-a88f-40f7-9a43-9aa33edf0332.svg)](https://wakatime.com/@44316572-a88f-40f7-9a43-9aa33edf0332)
  -->
 <!-- <a href="https://wakatime.com/@felype" title="Data update every midnight">
