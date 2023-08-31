@@ -3,16 +3,30 @@
 <h3 align="center"> It's a pleasure having you here! </h3>
 
 ### Here are some things about me:
-- 📝 I'm currently learning NestJS, also JAVA with SpringBoot
-- 👨‍💻 I'm a Full Stack Web Developer open to work
-- 🎓 I have a physics degree, but my heart belongs to programming
-- 👥 Teamwork is cooler
-- ✅ I love to be always learning
+- 📝 I'm currently learning about microsservices;
+- 📚 I'm learning to be a software expert;
+- 👨‍💻 I'm a Full Stack Web Developer, working with .Net (C#) and VueJs;
+- 🎓 I have a physics degree, but my heart belongs to programming;
+- 👥 Teamwork is coolest;
+- ✅ I love to be always learning;
 
 
 ### I also know a few things:
 
 <div align="center">
+
+  <a href="https://dotnet.microsoft.com/"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png?&auto=webp&quality=85,75&width=500" width="45" height="45"/>
+  
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png?&auto=webp&quality=85,75&width=500" width="45" height="45"/>
+  
+  <a href="https://spring.io/projects/spring-framework"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/180px-Spring_Framework_Logo_2018.svg.png?&auto=webp&quality=85,75&width=500" width="160" height="45"/>
+    
+  <a href="https://www.java.com/"/>
+  <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png?&auto=webp&quality=85,75&width=500" width="30" height="45"/>
+      
   <a href="https://redis.io/"/>
   <img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png?&auto=webp&quality=85,75&width=500" width="120" height="45"/>
   
