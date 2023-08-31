@@ -5,7 +5,7 @@
 ### Here are some things about me:
 - 📝 I'm currently learning about microservices;
 - 📚 I'm learning to be a software expert;
-- 👨‍💻 I'm a Full Stack Web Developer, working with .Net (C#) and VueJs;
+- 👨‍💻 I'm a Full Stack Web Developer working with .Net (C#) and VueJs;
 - 🎓 I have a physics degree, but my heart belongs to programming;
 - 👥 Teamwork is coolest;
 - ✅ I love to be always learning;
