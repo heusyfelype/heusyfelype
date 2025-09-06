@@ -10,7 +10,7 @@
 - 🧠 I'm familiar with several important design patterns such as Singleton, Factory, Adapter, Decorator, Facade, Observer, Strategy, and more.
 - ✅ I always strive to employ best practices and principles, such as SOLID, Layered Architecture, DRY, KISS, and YAGNI.
 - 🐳 I also have experience with tools and practices like Docker, CI/CD, and code quality and security best practices.
-- 📚 I'm learning more about DevOps, but I have experience with cloud services on AWS (SQS, SNS, Lambda Functions, CloudWatch...) and GCP (Pub/Sub, Google Storage, etc.).
+- 📚 I'm learning more about DevOps, but I already have experience with cloud services on AWS (SQS, SNS, Lambda Functions, CloudWatch...) and GCP (Pub/Sub, Google Storage, etc.).
 - 🎓 I have a physics degree, but my heart belongs to programming.
 - 👥 Teamwork is coolest.
 - ✅ I love to be always learning.
