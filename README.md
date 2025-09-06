@@ -2,13 +2,18 @@
 
 <h3 align="center"> It's a pleasure having you here! </h3>
 
+## 🚨 This page is personal and experimental! "You can't judge a book by its cover". In my real professional career, I have been using private Azure Repos. 🚨 
+
 ### Here are some things about me:
-- 📝 I'm currently learning about microservices;
-- 📚 I'm learning to be a software expert;
-- 👨‍💻 I'm a Full Stack Web Developer working with .Net (C#) and VueJs;
-- 🎓 I have a physics degree, but my heart belongs to programming;
-- 👥 Teamwork is coolest;
-- ✅ I love to be always learning;
+- 📝 I'm currently a software developer with about 3 years of experience.
+- 👨‍💻 My main tech stack includes .NET (C#), Node.js (TypeScript), Vue.js, Angular, SQL, and NoSQL.
+- 🧠 I'm familiar with several important design patterns such as Singleton, Factory, Adapter, Decorator, Facade, Observer, Strategy, and more.
+- ✅ I always strive to employ best practices and principles, such as SOLID, Layered Architecture, DRY, KISS, and YAGNI.
+- 🐳 I also have experience with tools and practices like Docker, CI/CD, and code quality and security best practices.
+- 📚 I'm learning more about DevOps, but I have experience with cloud services on AWS (SQS, SNS, Lambda Functions, CloudWatch...) and GCP (Pub/Sub, Google Storage, etc.).
+- 🎓 I have a physics degree, but my heart belongs to programming.
+- 👥 Teamwork is coolest.
+- ✅ I love to be always learning.
 
 
 ### I also know a few things:
